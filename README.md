@@ -23,7 +23,7 @@ E pra finalizar:
 
 `npx react-native start`
 
-para rodar o projeto na sua m
+para rodar o projeto na sua máquina.
 
 ## Autor :grin:
 <b>Jardel Lima Batista</b> 
